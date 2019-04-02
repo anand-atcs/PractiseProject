@@ -1,1 +1,1 @@
-# PractiseProject
+# PracticeProject
